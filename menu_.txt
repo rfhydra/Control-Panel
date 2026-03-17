@@ -1,0 +1,137 @@
+admin_get_account_info.php,Account,Account Info
+user_changepassword.php,Account,Change Password
+user_changepin.php,Account,Change PIN
+user_lostfg.php,Account,Recover FG
+user_purchasepremium.php,Account,Purchase Premium
+admin_changecharname.php,Admin,Change Char Name
+admin_edit_character.php,Admin,Edit Character
+admin_edit_inventory.php,Admin,Edit Inventory
+support_charlookup.php,Admin,Char Lookup
+support_desk.php,Admin,User Information
+support_guild_search.php,Admin,Guild Search
+support_list_guilds.php,Admin,Guild List
+support_newaccounts.php,Admin,New Accounts
+admin_edit_race_job.php,Admin,Edit Race and Job
+admin_move_character.php,Admin,Move Character
+admin_edit_kill_death.php,Admin,Edit Kill / Death
+admin_edit_bank.php,Admin,Edit Bank
+admin_panel_currency.php,Admin,Admin Currency Setting
+user_character_information.php,Character,Character Information
+user_change_base_class.php,Character,Change Base Job
+user_change_name.php,Character,Change Name
+user_change_race.php,Character,Change Race
+user_character_search.php,Character,Character Search
+user_item_auctions.php,Character,Auctions (Bank Items)
+user_item_auctionsv2.php,Character,Auctions (Inventory Items)
+admin_item_auctions.php,Character,Setting Auctions (Items)
+user_character_auctions.php,Character,Auctions (Character)
+admin_character_auctions.php,Character,Setting Auctions (Character)
+user_bid_auctions.php,Character,Auctions Bid
+admin_setting_auctions_bid.php,Character,Setting Auctions Bid
+user_change_base_class_with_item.php,Character,Change Base Job With Items
+user_change_race_with_item.php,Character,Change Race With Items
+user_convertCashtoVP.php,Convert,Convert Cash Points To Vote Points
+user_convertVPtoCash.php,Convert,Convert Game Point to Cash Coin
+user_convert_gp_to_cc.php,Convert,Convert Gold Point to Cash Coin
+user_convert_cpt_to_cc.php,Convert,Convert Contribute Point to Cash Coin
+user_convert_cpt_to_vp.php,Convert,Convert Contribute Point to Vote Point
+user_convert_money_to_cc.php,Convert,Convert Money to Cash Coin
+user_convert_points.php,Convert,Convert Game Point to Money/Gold
+user_convert_item_to_currency.php,Convert,Convert Item To Currency (Bank)
+user_convert_item_to_currencyv2.php,Convert,Convert Item To Currency (Inventory)
+admin_setting_referal_code.php,Donate,Setting Referal Code
+user_referal_code.php,Donate,Referal Code
+admin_setting_donate.php,Donate,Setting Wallet Store
+user_manual_donate.php,Donate,Wallet Store
+admin_setting_voucher.php,Donate,Setting Voucher
+user_my_wallet.php,Donate,My Wallet
+admin_setting_wallet.php,Donate,Manage Wallet
+user_topup_wallet.php,Donate,Topup Wallet
+user_topup_wallet_xendit.php,Donate,Topup Wallet Via Xendit
+user_topup_wallet_plisio.php,Donate,Topup Wallet Via Plisio
+user_claim_daily_killer.php,Event,Daily Killer
+user_claim_guild_reward.php,Event,Guild Reward
+user_claim_new_player_reward.php,Event,New Player Reward
+user_fortune_wheel.php,Event,Fortune Wheel
+user_claim_rebirth.php,Event,Rebirth Character
+user_voucher_exchanged.php,Event,Redeem Voucher
+user_gatcha_box.php,Event,Gatcha Box
+user_daily_login_reward.php,Event,Daily Login
+user_daily_quest_ticket.php,Event,Daily Quest Ticket
+user_lucky_withdrawal_event.php,Event,Lucky Withdrawal
+user_event_manage.php,Event,Top Player Rewards
+user_daily_share.php,Event,Daily Share
+admin_gamecp_logs.php,Logs,Game CP Logs
+admin_manage_redeem.php,Logs,Manage Redeem Logs
+admin_vote_logs.php,Logs,Vote Logs
+support_changename.php,Logs,Name Changes Logs
+support_item_charge.php,Logs,Rented Items Logs
+support_logoutlogs.php,Logs,Logout Logs
+user_items_redeemed.php,Logs,Item Redeem Logs
+admin_banuser.php,Panel,Manage Bans
+admin_delete_item.php,Panel,Manage Item Delete
+admin_mass_give_points.php,Panel,Mass Give Point
+admin_givepremium.php,Panel,Give Premium
+admin_give_item.php,Panel,Give Item
+admin_give_item_owndev.php,Panel,Give Item Owndev
+admin_gmaccounts.php,Panel,Manage GM Accounts
+admin_manage_cash_points.php,Panel,Manage Cash Points
+admin_manage_game_points.php,Panel,Manage Game Points
+admin_manage_guild_coin.php,Panel,Manage Guild Coin
+admin_manage_streamer_coin.php,Panel,Manage Streamer Coin
+superadmin_mass_delete.php,Panel,Mass Delete Items
+admin_add_guild.php,Panel,Manage Guild
+admin_add_council.php,Panel,Manage Council
+admin_mass_give_item.php,Panel,Give Item (Massive)
+admin_mass_give_item_owndev.php,Panel,Give Item Owndev (Massive)
+admin_give_guild_points.php,Panel,Give Guild Point (to Guild)
+admin_give_guild_wallet.php,Panel,Give Guild Wallet (to Guild)
+admin_give_itemv2.php,Panel,Give Item V2
+admin_manage_give_itemv2.php,Panel,Manage Give Item V2
+user_chipwars.php,Server,Chip War History
+user_councillist.php,Server,Council List
+user_serverstats.php,Server,Server Information
+user_top_players.php,Server,Top Players
+user_userbanlist.php,Server,Banned Page
+user_pitboss_status.php,Server,Pitboss Status
+support_items_list.php,Server,Item List
+support_monsters_list.php,Server,Monster List
+admin_setting_claim_guild_reward.php,Setting,Setting Claim Guild Reward
+admin_setting_daily_killer_reward.php,Setting,Setting Claim Daily Killer Reward
+admin_setting_claim_new_player_reward.php,Setting,Setting Claim New Player Reward
+admin_setting_purchase_premium.php,Setting,Setting Purchase Premium
+admin_vote_sites.php,Setting,Setting Vote Sites
+admin_setting_fortune_wheel.php,Setting,Setting Fortune Wheel
+admin_voucher_exchanged.php,Setting,Seting Voucher Exchanged
+admin_setting_converter.php,Setting,Setting Converter
+admin_claim_rebirth.php,Setting,Setting Rebirth Character
+admin_manage_item_to_currency.php,Setting,Setting Convert Item To Currency
+admin_setting_gatcha_box.php,Setting,Setting Gatcha Box
+admin_setting_daily_login_reward.php,Setting,Setting Daily Login
+admin_setting_daily_quest_ticket.php,Setting,Setting Daily Quest Ticket
+admin_lucky_withdrawal_event.php,Setting,Setting Lucky Withdrawal Event
+admin_event_manage.php,Setting,Setting Event Top Player
+admin_setting_daily_share.php,Setting,Setting Daily Share
+admin_manage_items_shop.php,Shop,Manage Items Shop
+admin_manage_renteditems.php,Shop,Manage Rented Items
+user_itemshop.php,Shop,Item Shop
+user_guildshop.php,Shop,Guild Shop
+admin_manage_guild_shop.php,Shop,Manage Guild Shop
+user_streamershop.php,Shop,Blue Shop
+admin_manage_streamershop.php,Shop,Manage Streamer Shop
+user_rented_items.php,Shop,Rented Shop
+user_vote.php,Shop,Vote for Vote Points
+user_give_guild_coin.php,Shop,Management Guild Coin
+user_walletshop.php,Shop,Wallet Shop
+admin_manage_wallet_shop.php,Shop,Manage Wallet Shop
+admin_versioncheck.php,Super Admin,Check Version
+superadmin_configuration.php,Super Admin,Configuration
+superadmin_permissions.php,Super Admin,Manage Permissions
+admin_manage_visibility.php,Super Admin,Manage Visibility
+superadmin_manage_database.php,Super Admin,Manage Database
+admin_icon_setting.php,Super Admin,Manage Icon
+admin_job_item_swap.php,Super Admin,Manage Item Swap
+admin_convert_billing_shop.php,Super Admin,Managed CashList
+admin_merger_billing.php,Super Admin,Managed Billing Account
+admin_post.php,Super Admin,Manage Post
+user_top_blue_coin.php,Server,Top Blue Coin
